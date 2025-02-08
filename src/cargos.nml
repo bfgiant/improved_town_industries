@@ -453,7 +453,7 @@ item (FEAT_CARGOS, cargo_scrap_metal, 17) {
 
 item (FEAT_CARGOS, cargo_scrap_paper, 18) {
     property {
-        number:                     19;
+        number:                     18;
         sprite:                     4313;
         type_name:                  string(STR_CARGO_NAME_SCPR);
         unit_name:                  string(STR_CARGO_NAME_SCPR);
@@ -477,7 +477,7 @@ item (FEAT_CARGOS, cargo_scrap_paper, 18) {
 
 item (FEAT_CARGOS, cargo_grain, 19) {
     property {
-        number:                     20;
+        number:                     19;
         sprite:                     4303;
         type_name:                  TTD_STR_CARGO_PLURAL_GRAIN;
         unit_name:                  TTD_STR_CARGO_SINGULAR_GRAIN;
@@ -502,7 +502,7 @@ item (FEAT_CARGOS, cargo_grain, 19) {
 // Waste in new ID
 item (FEAT_CARGOS, cargo_waste, 20) {
     property {
-        number:                     21;
+        number:                     20;
         sprite:                     4319;
         type_name:                  string(STR_CARGO_NAME_WASTE);
         unit_name:                  string(STR_CARGO_NAME_WASTE);
